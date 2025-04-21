@@ -5,7 +5,7 @@ $dbHost = "host";
 $dbUsername = "user";
 $dbPassword = "password";
 $dbName = "database";
-$psUrl = "https://www.tuosito.it/"; // URL PrestaShop
+$psUrl = "https://www.prestashopwebsite.com/"; // URL PrestaShop
 
 // Database connection
 // Assicurati di avere l'estensione mysqli abilitata
